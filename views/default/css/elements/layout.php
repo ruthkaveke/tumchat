@@ -126,3 +126,6 @@
 .elgg-page-footer a:hover {
 	color: #666;
 }
+.elgg-body{
+	background-color:#EEE;
+}
